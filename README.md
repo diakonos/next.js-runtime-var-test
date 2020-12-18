@@ -1,3 +1,8 @@
+# Steps to reproduce
+
+1. Run `npm run build`.
+2. Run `RUNTIME_VAR=test123 npm run start`.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
